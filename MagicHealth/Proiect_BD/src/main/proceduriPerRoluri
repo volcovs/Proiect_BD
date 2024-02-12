@@ -1,0 +1,7 @@
+1) asistent_medical: completare raport +, vizualizare rapoarte +, vizualizare pacienti programati +, orar personal +
+2) medic: cautare pacient (vizualizare istoric) +, parafare raport + , vizualizare pacienti programati +, orar personal +
+3) inspector resurse umane: cautare angajat +, vizualizare concediu + orar +, adaugare serviciu specializat +
+4) contabil: profit curent +, vizualizare profit general +, vizualizare salarii +, profit medici +
+5) receptioner: vizualizare + adaugare programari +, inregistrare pacient +, emitere bon +, orar personal +
+6) admin: operatii pe useri -> afisare/adaugare +, stergere +
+7) super-admin: operatii pe useri, inclusiv de tip admin -> afisare/adaugare +, stergere +
